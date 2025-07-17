@@ -1,3 +1,11 @@
+<p>
+Доступы для БД: <br>
+DB_HOST=sql8.freesqldatabase.com<br>
+DB_PORT=3306<br>
+DB_DATABASE=sql8790328<br>
+DB_USERNAME=sql8790328<br>
+DB_PASSWORD=kbn8YnhdVr<br>
+<p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
