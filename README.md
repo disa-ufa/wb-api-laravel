@@ -7,12 +7,12 @@ DB_USERNAME=sql8790328<br>
 DB_PASSWORD=kbn8YnhdVr<br>
 <p>
     <p>
-Запуску через Docker:
-1. Клонируйте репозиторий
-2. Запустите docker-compose up -d
-3. docker-compose exec app bash
-4. php artisan migrate
-5. php artisan wb:import-all
+Запуску через Docker:<br>
+1. Клонируйте репозиторий<br>
+2. Запустите docker-compose up -d<br>
+3. docker-compose exec app bash<br>
+4. php artisan migrate<br>
+5. php artisan wb:import-all<br>
     <p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
